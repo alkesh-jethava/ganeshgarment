@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "022936ca9767ee54827195c37075907a",
+    "revision": "23ef45ca60c4b0c2f5165a1ace15112b",
     "url": "/ganeshgarment/index.html"
   },
   {
-    "revision": "e958f1ba74df9a92ff0a",
+    "revision": "43ef8cead06e412d3df4",
     "url": "/ganeshgarment/static/css/main.aab08b6d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ganeshgarment/static/js/2.d8dd74ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e958f1ba74df9a92ff0a",
-    "url": "/ganeshgarment/static/js/main.03dcf939.chunk.js"
+    "revision": "43ef8cead06e412d3df4",
+    "url": "/ganeshgarment/static/js/main.423c0422.chunk.js"
   },
   {
     "revision": "94dcf610a1e9be64bc7f",
