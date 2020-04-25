@@ -2,7 +2,7 @@ import React from 'react';
 import Buttons from '../Components/Button';
 import LogoName from '../Components/LogoName';
 import TextInput from '../Components/TextInput';
-import { NavLink, Redirect } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import '../CSS/Login.css';
 
 class Login extends React.Component{
@@ -94,12 +94,12 @@ class Login extends React.Component{
     }
 
     render(){
-        if(this.state.loggedIn === true)
-        {
-            return <Redirect to="/Dashboard" />
-        }
-        else
-        {
+        // if(this.state.loggedIn === true)
+        // {
+        //     return <Redirect to="/Dashboard" />
+        // }
+        // else
+        // {
         return(
             <div className="login_container">
                 <div className="login_form">
@@ -151,7 +151,7 @@ class Login extends React.Component{
             </div>
           
         )}
-                }
+                
    }
 
 
