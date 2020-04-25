@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ganeshgarment/static/css/main.aab08b6d.chunk.css",
+    "main.js": "/ganeshgarment/static/js/main.03dcf939.chunk.js",
+    "main.js.map": "/ganeshgarment/static/js/main.03dcf939.chunk.js.map",
+    "runtime-main.js": "/ganeshgarment/static/js/runtime-main.e624d3d7.js",
+    "runtime-main.js.map": "/ganeshgarment/static/js/runtime-main.e624d3d7.js.map",
+    "static/js/2.d8dd74ed.chunk.js": "/ganeshgarment/static/js/2.d8dd74ed.chunk.js",
+    "static/js/2.d8dd74ed.chunk.js.map": "/ganeshgarment/static/js/2.d8dd74ed.chunk.js.map",
+    "index.html": "/ganeshgarment/index.html",
+    "precache-manifest.b2d8cbc121065ac61c0f33d92eba1970.js": "/ganeshgarment/precache-manifest.b2d8cbc121065ac61c0f33d92eba1970.js",
+    "service-worker.js": "/ganeshgarment/service-worker.js",
+    "static/css/main.aab08b6d.chunk.css.map": "/ganeshgarment/static/css/main.aab08b6d.chunk.css.map",
+    "static/js/2.d8dd74ed.chunk.js.LICENSE.txt": "/ganeshgarment/static/js/2.d8dd74ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e624d3d7.js",
+    "static/js/2.d8dd74ed.chunk.js",
+    "static/css/main.aab08b6d.chunk.css",
+    "static/js/main.03dcf939.chunk.js"
+  ]
+}
